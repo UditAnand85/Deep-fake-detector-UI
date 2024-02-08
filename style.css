@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding:0px;
     font-family:sans-serif;
-    overflow-x:none;
+    overflow-x:hidden;
 }
 
 .logo{
