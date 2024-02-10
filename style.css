@@ -12,7 +12,8 @@ body{
     justify-content: center;
 }    
 .oglogo{
-    height: 50px; width:250px;
+    height:50px;
+    width:225px;
 }
 .l1{
     display:flex;
@@ -460,7 +461,7 @@ li{
         }
         .oglogo{
             height: 35px;
-            width:160px;
+            width:150px;
         }
         
     }
@@ -519,6 +520,7 @@ li{
         .head{
             font-size:13px;
             text-align:center;
+            justify-content: center;
         }
         .text2{
             font-size:10px
@@ -549,5 +551,27 @@ li{
         }
         .whitespace{
             display:hidden;
+        }
+    }
+    @media only screen and (max-width:350px){
+        .home{
+            font-size:7px;
+
+        }
+        .homediv{
+            height:50px;
+            width:40px;
+            display: flex;
+            align-items:center;
+            justify-content: center;
+            
+        }
+        .l1{
+            display: flex;
+            gap:1px;
+        }
+        footer{
+            height:150px;
+            width:100vw;
         }
     }
