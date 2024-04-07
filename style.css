@@ -313,7 +313,7 @@ li{
 
 }
 .log{
-    margin-top:60px;
+    margin-top:25px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -352,6 +352,7 @@ li{
     align-items: center;
     justify-content: center;
     margin-top:10px;
+    margin-bottom:30px;
 }
 .b2{
     display: flex;
@@ -413,6 +414,18 @@ li{
 .li{
     font-size:15px;
 }
+
+.logo100{
+    height:70px;
+    width:70px;
+    border-radius:13px;
+    margin-top:70px;
+
+}
+
+
+
+
 
     @media only screen and (max-width:800px){
         .home{font-size:10px;}
