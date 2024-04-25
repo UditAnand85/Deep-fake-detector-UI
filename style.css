@@ -508,7 +508,7 @@ li{
             height: 100%;
         }
         nav{
-            width:110vw;
+            width:120vw;
             gap:160px;
             
         }
@@ -571,7 +571,7 @@ li{
             display:hidden;}
         body{
             height:123px;
-            width:100vw;
+            width:120vw;
         }
         
     }
@@ -594,10 +594,10 @@ li{
         }
         footer{
             height:294px;
-            width:113vw;
+            width:120vw;
         }
         html{
-            width:100vw;
+            width:120vw;
         }
         
 
