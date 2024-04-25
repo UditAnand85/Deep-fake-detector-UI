@@ -509,6 +509,7 @@ li{
         }
         nav{
             gap:40px;
+            width:487px;
             
         }
         .images{
@@ -525,6 +526,8 @@ li{
             bottom:553px;
             margin-bottom:0px
         }
+
+        
     }
     @media only screen and (max-width:800px){
         #h1{
@@ -560,13 +563,14 @@ li{
         .footer{
             position: relative;
             bottom:530px;
+
             
         }
         .whitespace{
             display:hidden;
         }
     }
-    @media only screen and (max-width:350px){
+    @media only screen and (max-width:450px){
         .home{
             font-size:7px;
 
@@ -584,7 +588,12 @@ li{
             gap:1px;
         }
         footer{
-            height:150px;
-            width:100vw;
+            height:280px;
+            width:111vw;
         }
-    }
+        body{
+            height:123px;
+            width:471px;
+        }
+        }
+    
